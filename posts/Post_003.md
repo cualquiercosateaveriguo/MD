@@ -18,16 +18,9 @@ Me quedarían todavía dos opciones:
 * *Collab*
 * *Binder*
 
-En cuanto a Collab...
+En cuanto a Colab 
 
-an image
-[image alt text](https://drive.google.com/drive/search?q=owner%3Ame%20(type%3Aapplication%2Fvnd.google.colaboratory%20%7C%7C%20type%3Aapplication%2Fvnd.google.colab)&authuser=0)
-
-[Collab](https://colab.research.google.com/drive/1M3-2cm-RVpJa491_Bzlmg3y8He-HHkjP?usp=sharing")
-
-O quiza
-
-Podía ser un vínculo https://colab.research.google.com/drive/1M3-2cm-RVpJa491_Bzlmg3y8He-HHkjP?usp=sharing
+[Collab](https://colab.research.google.com/drive/1M3-2cm-RVpJa491_Bzlmg3y8He-HHkjP?usp=sharing)
 
 ---
 ### *Páginas en markdown para todes*
