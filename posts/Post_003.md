@@ -22,6 +22,11 @@ En cuanto a Colab
 
 [Collab](https://colab.research.google.com/drive/1M3-2cm-RVpJa491_Bzlmg3y8He-HHkjP?usp=sharing)
 
+
+Y vincular directo a la celda?
+
+[Celda](https://colab.research.google.com/drive/1M3-2cm-RVpJa491_Bzlmg3y8He-HHkjP#scrollTo=pYSCLQZMaBEY&line=1&uniqifier=1)
+
 ---
 ### *Páginas en markdown para todes*
 #### *Por cualquiercosateaveriguo@gmail.com*
